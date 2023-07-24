@@ -26,13 +26,15 @@ const Footer = () => {
         <i className="fas fa-envelope"></i>
       </a>
       <h4 className="made my-3 fw-bolder fs-7">
-        The Fashion Forward Team{" "}
+        👗 The Fashion Forward Team{" "}
         <span
-          className="emoji"
+          className="emojis"
           role="img"
-          aria-label="dog"
+          aria-label="Dress and jeans"
           aria-hidden="false"
-        ></span>
+        >
+          👖
+        </span>
         {""}
       </h4>
       <p>
